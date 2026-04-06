@@ -66,8 +66,11 @@ Project Structure
 zorvyn-portal/
 ├── src/
 │   ├── components/              # React components
+
 │   │   ├── BalanceChart.tsx    # Line chart component
+
 │   │   ├── ExpensePieChart.tsx # Pie chart component
+
 │   │   ├── FilterBar.tsx       # Filter and search controls
 │   │   ├── InsightsSection.tsx # Analytics insights
 │   │   ├── RoleSelector.tsx    # Role switching component
