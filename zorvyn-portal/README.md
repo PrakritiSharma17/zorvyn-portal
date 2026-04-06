@@ -1,6 +1,6 @@
 # Zorvyn Finance Dashboard ZFD - Finance Dashboard UI
 
-A modern, production-quality Finance Dashboard built with React, TypeScript, and Tailwind CSS.
+A modern, production-quality Finance Dashboard built with React, TypeScript and Tailwind CSS.
 
 ## Features
 
@@ -308,4 +308,4 @@ For issues or questions:
 
 ---
 
-**Built with ❤️ using React, TypeScript, and Tailwind CSS**
+**Built with React, TypeScript, and Tailwind CSS**
