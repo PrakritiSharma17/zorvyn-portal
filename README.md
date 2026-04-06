@@ -109,7 +109,7 @@ Start the development server
 npm run dev
 Open in browser
 
-The app will automatically open at http://localhost:3000
+The app will automatically open at https://zorvyn-portal.vercel.app/
 If not, manually navigate to this URL
 Usage
 Adding Transactions (Admin Mode Only)
