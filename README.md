@@ -65,6 +65,7 @@ Package Manager: npm
 Project Structure
 zorvyn-portal/
 ├── src/
+
 │   ├── components/              # React components
 
 │   │   ├── BalanceChart.tsx    # Line chart component
@@ -72,30 +73,58 @@ zorvyn-portal/
 │   │   ├── ExpensePieChart.tsx # Pie chart component
 
 │   │   ├── FilterBar.tsx       # Filter and search controls
+
 │   │   ├── InsightsSection.tsx # Analytics insights
+
 │   │   ├── RoleSelector.tsx    # Role switching component
+
 │   │   ├── Skeleton.tsx        # Loading skeleton
+
 │   │   ├── SummaryCard.tsx     # Summary statistics card
+
 │   │   ├── TransactionForm.tsx # Add/Edit transaction form
+
 │   │   └── TransactionTable.tsx# Transactions display table
+
+
 │   ├── store/
+
 │   │   └── dashboardStore.ts   # Zustand store for state management
+
+
 │   ├── types/
+
 │   │   └── index.ts            # TypeScript type definitions
+
+
 │   ├── utils/
+
 │   │   ├── calculations.ts     # Business logic utilities
+
 │   │   └── mockData.ts         # Sample transaction data
+
 │   ├── App.tsx                 # Main application component
+
 │   ├── main.tsx                # Entry point
+
 │   └── index.css               # Global styles
+
 ├── public/                      # Static assets
+
 ├── index.html                   # HTML template
+
 ├── package.json                 # Dependencies and scripts
+
 ├── tsconfig.json               # TypeScript config
+
 ├── tailwind.config.js          # Tailwind configuration
+
 ├── postcss.config.js           # PostCSS configuration
+
 ├── vite.config.ts              # Vite configuration
+
 └── README.md                   # This file
+
 Installation
 Prerequisites
 Node.js 16.x or higher
